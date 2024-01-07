@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante iniciante em programação<br>💬Apaixonada por tecnologia e desenvolvimento de projetos<br>
+🔭 Estudante iniciante em programação<br>💬 Apaixonada por tecnologia e desenvolvimento de projetos<br>
 
 
 ## 🌐 Socials:
