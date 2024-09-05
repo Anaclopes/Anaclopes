@@ -40,13 +40,7 @@
 
 ###
 
-<h2 align="center"> Social 🌐 </h2>
-<br>
-<div align="center">
-  <a href="www.linkedin.com/in/ana-claudia-lopes-dos-santos-397891270" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=0D6C38&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6C38FF&height=120&section=footer"/> </h1>
