@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-🔭 Estudante iniciante em programação
+🔭 Estudante de Desenvolvimento de sistemas no Senai
 <br>
   💬 Apaixonada por tecnologia e desenvolvimento de projetos
 </div>
