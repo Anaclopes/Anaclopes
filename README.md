@@ -8,8 +8,6 @@
 <br>
 💬 Apaixonada por tecnologia e desenvolvimento de projetos
   <br>
-💻 Jovem aprendiz Digital Solutions na Bosch 
-  <br>
 ⚙ ETS - Escola Técnica de Engenharia
 </div>
 
