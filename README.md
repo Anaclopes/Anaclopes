@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6C38FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c0a5cFF&height=120&section=header"/>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=0D6C38&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=5c0a5c&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" /></a> 
 </h1>
 
 <div align="center">
@@ -12,8 +12,8 @@
 <h2 align="center">Status ⌛</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaclopes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anaclopes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaclopes&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anaclopes&theme=midnight-purple&hide_border=false"/>
 </div>
 
 <h2 align="center"> Languages, Frameworks and Tools ⚒️ </h2>
@@ -42,8 +42,8 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=0D6C38&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6C38FF&height=120&section=footer"/> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=5c0a5c&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c0a5cFF&height=120&section=footer"/> </h1>
 </div>
 
 ###
