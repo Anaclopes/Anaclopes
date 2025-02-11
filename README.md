@@ -1,12 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c0a5cFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9443f0&height=120&section=header"/>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=5c0a5c&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=9443f0&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" /></a> 
 </h1>
 
 <div align="center">
-🔭 Estudante de Desenvolvimento de sistemas no Senai
+🖥 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 <br>
-  💬 Apaixonada por tecnologia e desenvolvimento de projetos
+💬 Apaixonada por tecnologia e desenvolvimento de projetos
+  <br>
+💻 Jovem aprendiz Digital Solutions na Bosch 
+  <br>
+⚙ ETS - Escola Técnica de Engenharia
 </div>
 
 <h2 align="center">Status ⌛</h2>
@@ -36,14 +40,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo" />
+          
+          
+          
 </div>
 
 ###
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=5c0a5c&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c0a5cFF&height=120&section=footer"/> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=9443f0&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9443f0FF&height=120&section=footer"/> </h1>
 </div>
 
 ###
