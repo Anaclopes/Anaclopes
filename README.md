@@ -6,6 +6,8 @@
 <div align="center">
 🖥 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 <br>
+💻 Cursando Gestão da Tecnologia da Informação na USF
+<br>
 💬 Apaixonada por tecnologia e desenvolvimento de projetos
   <br>
 ⚙ ETS - Escola Técnica de Engenharia
