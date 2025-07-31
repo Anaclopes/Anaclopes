@@ -20,28 +20,48 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anaclopes&theme=midnight-purple&hide_border=false"/>
 </div>
 
-<h2 align="center"> Languages, Frameworks and Tools ⚒️ </h2>
+<h2 align="center">Front-End ⚒️ </h2>
 <br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=html" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+
+  <h2 align="center"> Back-End ⚒️ </h2>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+
+ 
+  <h2 align="center"> Tools ⚒️ </h2>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=github" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo" />
-          
-          
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0079BF" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="40"/>
+  <img width="12" />
           
 </div>
 
