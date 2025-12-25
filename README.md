@@ -1,80 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=461758&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=540015&height=120&section=header"/>
+
 <div align="center">
   <h1>
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="200" style="border-radius: 50%;">
+   <img width="290" height="420" alt="d5ea0fe2-6753-4cec-bdca-65d038cc5100" src="https://github.com/user-attachments/assets/731fb7a9-6b38-4c2f-ac04-331f4d950531" />
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=5d2d6f&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" />
   </h1>
-  🖥 Studying Systems Development Technician at Senai
+
+  🎓 Systems Development Technician — SENAI  
+  🎓 Information Technology Management — USF  
+  ⚙️ Focused on backend engineering
   <br>
-  💻 Studying Information Technology Management at USF
-  <br>
-  💬 Passionate about technology and project development
-    <br>
-  ⚙ ETS - Engineering Technical School
+  📍 Engineering Technical School (ETS)
 </div>
 
 ###
 <br>
 <div align="center">
-  <h2> 💻 Technologies and Tools</h2>
+  <h2> 💻 Tooling & Workflow</h2>
 </div>
 
 <h3 align="center">Backend development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/PYTHON-LANGUAGE-540015?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-LANGUAGE-540015?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-FRAMEWORK-540015?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DJANGO-FRAMEWORK-540015?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-FRAMEWORK-540015?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLITE-DATABASE-540015?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-DATABASE-540015?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <h3 align="center">Frontend development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-MARKUP-2b2b2b?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-STYLES-2b2b2b?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-LANGUAGE-2b2b2b?style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/REACT-FRAMEWORK-2b2b2b?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  
-  <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-  
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  
-  <img src="https://img.shields.io/badge/draw.io-DD2C00?style=for-the-badge&logo=diagrams-net&logoColor=white" alt="Draw.io">
+ <img src="https://img.shields.io/badge/GIT-VCS-1a1a1a?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-PLATFORM-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/INTELLIJ_IDEA-IDE-1a1a1a?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-IDE-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-PM-1a1a1a?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 <br>
 
 <h2 align="center">Status ⌛</h2>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaclopes&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anaclopes&theme=midnight-purple&hide_border=false"/>
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=anaclopes&theme=dark&ring=540015&hide_border=true"
+    width="420"
+  />
+</p>
 
 ###
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=5d2d6f&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=461758&height=120&section=footer"/> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=540015&height=120&section=footer"/> </h1>
 </div>
 
 ###
