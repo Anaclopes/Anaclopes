@@ -2,7 +2,6 @@
 
 <div align="center">
   <h1>
-   <img width="290" height="420" alt="d5ea0fe2-6753-4cec-bdca-65d038cc5100" src="https://github.com/user-attachments/assets/731fb7a9-6b38-4c2f-ac04-331f4d950531" />
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B;My+name's+Ana!;Be+Welcome." alt="Typing SVG" />
   </h1>
@@ -10,8 +9,6 @@
   🎓 Systems Development Technician — SENAI  
   🎓 Information Technology Management — USF  
   ⚙️ Focused on backend engineering
-  <br>
-  📍 Engineering Technical School (ETS)
 </div>
 
 ###
@@ -49,15 +46,6 @@
 </p>
 
 <br>
-
-<h2 align="center">Status ⌛</h2>
-<br>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=anaclopes&theme=dark&ring=540015&hide_border=true"
-    width="420"
-  />
-</p>
 
 ###
 
