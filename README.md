@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/SPRING_BOOT-FRAMEWORK-540015?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLITE-DATABASE-540015?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-DATABASE-540015?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-DATABASE-540015?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <h3 align="center">Frontend development</h3>
