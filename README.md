@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/CSS3-STYLES-2b2b2b?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-LANGUAGE-2b2b2b?style=for-the-badge&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/REACT-FRAMEWORK-2b2b2b?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-VCS-1a1a1a?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-PLATFORM-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/NEXT.JS-FRAMEWORK-2b2b2b?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/INTELLIJ_IDEA-IDE-1a1a1a?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_CODE-IDE-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-PM-1a1a1a?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRIZZLE_ORM-2b2b2b?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
 </p>
 <br>
 
