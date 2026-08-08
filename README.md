@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Hello!;My+name's+Ana!;Be+Welcome." alt="Typing SVG" />
       
-  🎓 Information Technology Management — USF  
-  ⚙️ Focused on backend engineering
+  ᝰ  Information Technology Management — USF  
+  </> Focused on backend engineering
 </div>
 
 ###
